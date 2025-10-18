@@ -1,0 +1,11 @@
+build:
+  version: "qa.1.0.0"
+
+accounts:
+  message: "Welcome to DTRBank accounts related QA APIs "
+  contactDetails:
+    name: "Rommel de Torres - Developer"
+    email: "detorresrc@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
