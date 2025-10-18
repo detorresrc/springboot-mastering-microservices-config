@@ -2,7 +2,7 @@ build:
   version: "prod.1.0.0"
 
 accounts:
-  message: "Welcome to DTRBank accounts related PROD APIs "
+  message: "Welcome to DTRBank accounts related PRODv2 APIs "
   contactDetails:
     name: "Rommel de Torres - Developer"
     email: "detorresrc@gmail.com"
